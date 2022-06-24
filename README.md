@@ -16,4 +16,4 @@
 
 Clone the repo
 
-git clone (https://github.com/Gianpiero73/Javascript.github.io)
+$ git clone https://github.com/Gianpiero73/Javascript.github.io
