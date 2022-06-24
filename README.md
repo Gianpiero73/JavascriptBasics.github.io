@@ -15,4 +15,5 @@
 # Getting Started
 
 Clone the repo
-git clone https://github.com/Gianpiero73/Javascript.github.io
+
+git clone [ https://github.com/your_username_/Project-Name.git](https://github.com/Gianpiero73/Javascript.github.io)
