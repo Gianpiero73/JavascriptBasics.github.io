@@ -19,7 +19,7 @@ Qui sotto riporto tutte le indicazioni che potranno essere utili.
 -CSS
 
 # PER INIZIARE
-Per ottenere una copia locale attiva e funzionante, segui questi semplici passaggi.
+Per ottenere una copia locale attiva e funzionante, occore scaricare il repository in locale e quindi "clonarlo" sul proprio IDE.
 
 # Prerequisiti
 Per attivare una copia locale del progetto occorre avere npm installato sul pc.
@@ -37,7 +37,7 @@ $ git clone https://github.com/Gianpiero73/Javascript.github.io
 I contributi sono ciò che rende la comunità open source un posto così straordinario per imparare, ispirare e creare. Tutti i contributi che fai sono molto apprezzati.
 
 
-Se hai un suggerimento che lo renderebbe migliore, esegui il fork del repository e crea una richiesta pull. Puoi anche aprire semplicemente un problema con il tag "miglioramento".
+Se hai un suggerimento che renderebbe migliore l'app, esegui il fork del repository e crea una richiesta pull. Puoi anche aprire semplicemente un problema con il tag "miglioramento".
 
 Segui le indicazioni qui sotto per creare un fork:
 
