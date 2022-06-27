@@ -62,7 +62,7 @@ Segui le indicazioni qui sotto per creare un fork:
 
 -mail: oreipnaig7310@gmail.com
 
-Projects Link: https://github.com/Gianpiero73?tab=repositories
+Link dei progetti: https://github.com/Gianpiero73?tab=repositories
 
 
 
