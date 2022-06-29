@@ -25,6 +25,8 @@ Per ottenere una copia locale attiva e funzionante, occore scaricare il reposito
 Per attivare una copia locale del progetto occorre avere npm installato sul pc.
 
 # Installare npm
+digitare nel proprio prompt dei comandi: 
+
 npm install npm@latest -g
   
 # Installare l'app in locale
